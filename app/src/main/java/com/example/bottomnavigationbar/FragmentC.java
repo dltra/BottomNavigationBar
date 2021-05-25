@@ -29,9 +29,9 @@ public class FragmentC extends Fragment {
 
         //setup here
         TextView textView = view.findViewById(R.id.b_textview);
-        textView.setText("I'm A");
+        textView.setText("I'm C");
         Button button = view.findViewById(R.id.b_button);
-        String count = "My Number is 1";
+        String count = "My Number is 11";
         button.setText(count);
     }
 

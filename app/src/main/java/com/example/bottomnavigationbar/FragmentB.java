@@ -29,7 +29,7 @@ public class FragmentB extends Fragment {
         TextView textView = view.findViewById(R.id.b_textview);
         textView.setText("I'm B");
         Button button = view.findViewById(R.id.b_button);
-        String count = "My Number is 2";
+        String count = "My Number is 11";
         button.setText(count);
     }
 }

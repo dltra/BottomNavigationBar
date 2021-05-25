@@ -30,7 +30,7 @@ public class FragmentA extends Fragment {
         TextView textView = view.findViewById(R.id.b_textview);
         textView.setText("I'm A");
         Button button = view.findViewById(R.id.b_button);
-        String count = "My Number is 1";
+        String count = "My Number is 11";
         button.setText(count);
     }
 }
