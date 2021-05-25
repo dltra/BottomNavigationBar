@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BottomNavigationBar</string>
+    <string name="option1">menuA</string>
+    <string name="option2">menuB</string>
+    <string name="option3">menuC</string>
+    <string name="option4">menuD</string>
 </resources>
